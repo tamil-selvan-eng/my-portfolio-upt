@@ -1,0 +1,10 @@
+{
+  "name": "static-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve -p 3000",
+    "build": "echo 'No build needed for static site'",
+    "lint": "echo 'No lint needed for static site'"
+  }
+}
